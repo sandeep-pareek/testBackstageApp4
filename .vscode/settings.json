@@ -1,0 +1,20 @@
+{
+    "karateRunner.karateRunner.default": "TestRunner",
+    "karateRunner.tests.activityBarDisplayType": "Deep",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+    },
+    "conf.view.identsBefore.Rule": 8,
+    "conf.view.identsBefore.Background": 2,
+    "conf.view.identsBefore.But": 8,
+    "conf.view.identsBefore.Given": 6,
+    "conf.view.identsBefore.Scenario": 2,
+    "conf.view.identsBefore.Then": 7,
+    "conf.view.identsBefore.When": 7,
+    "conf.view.identsBefore.And": 8,
+}
